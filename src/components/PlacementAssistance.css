@@ -1,0 +1,26 @@
+/* PlacementAssistance.css */
+.placement-assistance {
+  padding: 40px 20px;
+  text-align: center;
+  background-color: #eb34e1;
+  color: white;
+  border-radius: 8px;
+}
+
+.placement-assistance h2 {
+  font-size: 28px;
+  margin-bottom: 40px;
+}
+
+.placement-section {
+  padding: 20px;
+}
+
+.placement-section h3 {
+  font-size: 24px;
+  margin-bottom: 15px;
+}
+
+.placement-section p {
+  font-size: 16px;
+}

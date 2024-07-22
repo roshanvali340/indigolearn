@@ -1,0 +1,31 @@
+/* WhatWillYouLearn.css */
+.what-will-you-learn {
+  padding: 40px 20px;
+  text-align: center;
+}
+
+.what-will-you-learn h2 {
+  font-size: 28px;
+  margin-bottom: 40px;
+}
+
+.custom-card {
+  background-color: lightblue;
+  border: none;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+}
+
+.card-header {
+  background-color: #b134eb;
+  color: white;
+  font-size: 20px;
+  text-align: center;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+}
+
+.custom-card .card-text {
+  font-size: 16px;
+}

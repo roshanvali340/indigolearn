@@ -1,0 +1,66 @@
+/* BecomeAcca.css */
+.become-acca {
+  padding: 40px 20px;
+  background-color: lightblue;
+}
+
+.text-content {
+  text-align: left;
+}
+
+.become-acca h2 {
+  font-size: 28px;
+  margin-bottom: 20px;
+}
+
+.become-acca p {
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
+.small-cards {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.small-card {
+  flex: 1;
+  padding: 10px;
+  background-color: #f0f0f0;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  text-align: center;
+}
+
+.details-card {
+  background-color: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.become-acca .form-group {
+  margin-bottom: 15px;
+}
+
+.buttons {
+  display: flex;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+.become-acca .btn-violet {
+  background-color: #b134eb;
+  border: none;
+}
+
+.become-acca .btn-red {
+  background-color: red;
+  border: none;
+}
+
+.become-acca .btn-violet:hover,
+.become-acca .btn-red:hover {
+  opacity: 0.8;
+}
